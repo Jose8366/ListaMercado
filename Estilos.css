@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif, sans-serif;
+  background-color: burlywood;
+  background-image: url(https://th.bing.com/th/id/R.134ac792cd74911853bad6ba26607ee8?rik=VfIC%2fyrupqghSQ&pid=ImgRaw&r=0);
+  background-size: cover;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #5fe8fa;
+  color: rgb(8, 2, 2);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  background-color: white;
+}
+
+li {
+  margin-bottom: 10px;
+}
